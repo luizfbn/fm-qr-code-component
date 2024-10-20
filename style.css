@@ -25,6 +25,7 @@ body {
 	background-color: var(--white);
 	text-align: center;
 	box-sizing: border-box;
+	box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.1);
 }
 .card > figure {
 	margin-bottom: 1.5rem;
